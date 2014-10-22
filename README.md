@@ -6,9 +6,9 @@ DIY Keyboard
 Motivated by the ["Built my first mechanical keyboard"](https://imgur.com/a/EiVBx/#7ZjUYyg) by [Jack Humbert](https://github.com/jackhumbert), I decided to build my own Keyboard.
 
 Some constraints I took into account when designing it:
--Matrix Architecture (straight vertical key columns)
--Limited keys number
--The return key on the middle of the keyboard
+- Matrix Architecture (straight vertical key columns)
+- Limited keys number
+- The return key on the middle of the keyboard
 
 Layout
 ========
