@@ -21,4 +21,4 @@ row:  0   1   2   3   4
 pin: F0  F1  F2  F3  F4  
 
 col:  0   1   2   3   4   5   6   7   8   9   10  11  12  13  14  15
-pin: F5  F6  B6  B5  B4  B3  B2  B1  B0  D0   D1  D2  D3  D4  B1
+pin: F5  F6  B6  B5  B4  B3  B2  B1  B0  D0   D1  D2  D3  D4  D5  D6
